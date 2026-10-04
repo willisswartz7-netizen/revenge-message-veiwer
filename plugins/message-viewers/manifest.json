@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "id": "com.l1ght.messageviewers",
+  "name": "Message Viewers",
+  "description": "Shows message viewer information.",
+  "author": "L1ght",
+  "version": "1.0.0",
+  "dependencies": {
+    "revenge.api": {
+      "version": ">=1 <2"
+    }
+  },
+  "dist": {
+    "script": "index.js"
+  }
+}
