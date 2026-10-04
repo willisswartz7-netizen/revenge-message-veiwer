@@ -1,7 +1,0 @@
-{
-  "name": "revenge-message-viewer",
-  "private": true,
-  "scripts": {
-    "build": "revenge-plugin build"
-  }
-}
