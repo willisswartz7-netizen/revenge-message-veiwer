@@ -1,11 +1,16 @@
 {
-  "name": "Revenge Message Viewers",
-  "description": "Shows who viewed a message.",
-  "authors": [
-    {
-      "name": "L1ght",
-      "id": "YOUR_DISCORD_ID"
+  "format": 1,
+  "id": "com.l1ght.messageviewers",
+  "name": "Message Viewers",
+  "description": "Shows message viewer information.",
+  "author": "L1ght",
+  "version": "1.0.0",
+  "dependencies": {
+    "revenge.api": {
+      "version": ">=1 <2"
     }
-  ],
-  "main": "index.js"
+  },
+  "dist": {
+    "script": "index.js"
+  }
 }
