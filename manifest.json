@@ -1,0 +1,11 @@
+{
+  "name": "Revenge Message Viewers",
+  "description": "Shows who viewed a message.",
+  "authors": [
+    {
+      "name": "L1ght",
+      "id": "YOUR_DISCORD_ID"
+    }
+  ],
+  "main": "index.js"
+}
